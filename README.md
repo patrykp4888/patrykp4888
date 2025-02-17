@@ -9,7 +9,7 @@ I'm always open to learning something new.
 
 ## 📫 How to Reach Me
 - **Email:** patrykp4888@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/patryk-partyka-4b4474175/
+- **LinkedIn:** https://www.linkedin.com/in/patrykp4888/
 
 ## 🌱 What I'm Currently Learning
 - Advanced algorithms and data structures
