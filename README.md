@@ -2,7 +2,7 @@
 
 🎯 Software Engineer | Backend Engineer | Data Engineer | Lifelong Learner<br>
 🌐 Specializing in Python, Go, SQL, cloud-based solutions (GCP), data engineering and web oriented systems<br>
-🚀 Passionate about microservices architecture, data engineering, and system design
+🚀 Passionate about backend engineering, data engineering, microservices architecture and system design in general
 
 
 I'm always open to learning something new.
@@ -12,9 +12,9 @@ I'm always open to learning something new.
 - **LinkedIn:** https://www.linkedin.com/in/patrykp4888/
 
 ## 🌱 What I'm Currently Learning
-- Advanced algorithms and data structures
 - System Design Concepts
 - Azure Data Engineering Stack
+- Databricks
 
 
 Feel free to reach out to me or check out my repositories. I'm always open to collaboration.
